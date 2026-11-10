@@ -1,6 +1,11 @@
 <div align="center">
 
-<a href="https://polytropo.es"><img src="https://polytropo.es/images/brand/polytropo.png" alt="POLYTROPO" width="260"></a>
+<a href="https://polytropo.es">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/POLYTROPO-ES/.github/master/profile/polytropo-white.png">
+    <img src="https://polytropo.es/images/brand/polytropo.png" alt="POLYTROPO" width="260">
+  </picture>
+</a>
 
 ### Software propio, hecho en España · Our own software, made in Spain
 
@@ -19,7 +24,7 @@
 Software comercial en producción, con más de 10.000 usuarios. El código de estos productos no es público.
 *Commercial software in production with 10,000+ users. The source code of these products is not public.*
 
-| | |
+| Producto · Product | Qué es · What it is |
 |---|---|
 | **[GdFlota](https://polytropo.es/gdflota/)** | Gestión documental de personas, flotas y operaciones · *Document management for people, fleets and operations* |
 | **[RH Task](https://polytropo.es/rhtask/)** | Documentación de RRHH y PRL, con firma electrónica · *HR and workplace-safety paperwork, with e-signature* |
