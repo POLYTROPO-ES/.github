@@ -7,7 +7,7 @@
   </picture>
 </a>
 
-### Software propio, hecho en España · Our own software, made in Spain
+### Problemas reales, software propio · Real problems, our own software
 
 [polytropo.es](https://polytropo.es) · [YouTube](https://www.youtube.com/@polytropo) · comercial@polytropo.es
 
